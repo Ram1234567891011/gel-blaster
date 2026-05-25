@@ -225,7 +225,7 @@ freebies:['Suppressor','Magazine']
 
 const units=[
 /*BoHan AR15 Version 2*/
-
+const units=[
 {
   name:'BOHAN AR15 VERSION 2',
   category:'high',
